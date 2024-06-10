@@ -144,14 +144,18 @@ Anda dapat menyesuaikan parameter berikut dalam kode:
 
 Berikut adalah beberapa gambar dokumentasi dari proyek ini:
 
-- **Gambar 1: Skema Rangkaian**  
-  ![Skema Rangkaian](URL_GAMBAR_1)
+- **Gambar 1: Skema Rangkaian**
+  <br><br>
+  ![Skema Rangkaian](https://github.com/bhismapratama/FP-INTEGRASI-SISTEM_5027221005_5027221014/assets/104546173/07e04ec3-8b5d-4450-aae0-d07362c0fe94)
+
 
 - **Gambar 2: Tampilan Serial Monitor**  
   ![Tampilan Serial Monitor](URL_GAMBAR_2)
 
-- **Gambar 3: Tampilan Halaman Web**  
-  ![Tampilan Halaman Web](URL_GAMBAR_3)
+- **Gambar 3: Tampilan Halaman Web**
+  <br><br>
+  ![Tampilan Halaman Web](https://github.com/bhismapratama/FP-INTEGRASI-SISTEM_5027221005_5027221014/assets/104546173/288c345f-3eed-406d-815c-f55dc1511ed3)
+
 
 ## Lisensi
 
