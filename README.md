@@ -155,8 +155,3 @@ Berikut adalah beberapa gambar dokumentasi dari proyek ini:
 - **Gambar 3: Tampilan Halaman Web**
   <br><br>
   ![Tampilan Halaman Web](https://github.com/bhismapratama/FP-INTEGRASI-SISTEM_5027221005_5027221014/assets/104546173/288c345f-3eed-406d-815c-f55dc1511ed3)
-
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) untuk detail.
