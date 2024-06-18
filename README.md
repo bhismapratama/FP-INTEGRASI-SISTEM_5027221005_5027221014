@@ -1,0 +1,7 @@
+# FINAL PROJECT INTEGRASI SISTEM
+
+FINAL PROJECT INTEGRASI SISTEM - KELOMPOK 3
+| NRP | Nama |
+| ------ | ------ |
+| 5027221005 | Bhisma Elki Pratama |
+| 5027221014 | Siti Nur Ellyzah |
