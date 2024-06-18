@@ -67,7 +67,7 @@ Proyek ini menggunakan mikrokontroler ESP8266 untuk membaca data suhu dan kelemb
      ```
 
 5. **Upload kode ke ESP8266**:
-   - Hubungkan ESP8266 ke komputer Anda.
+   - Hubungkan ESP8266 ke komputer.
    - Pilih board dan port yang benar dari menu `Tools`.
    - Klik tombol upload.
 
@@ -99,7 +99,7 @@ Setelah kode di-upload dan ESP8266 dinyalakan, perangkat akan:
 3. Membaca data suhu dan kelembapan dari sensor DHT11.
 4. Mempublikasikan data sensor ke topik MQTT yang ditentukan secara berkala.
 
-Anda dapat memantau output serial menggunakan Serial Monitor di Arduino IDE untuk melihat status koneksi dan pembacaan sensor.
+Dapat memantau output serial menggunakan Serial Monitor di Arduino IDE untuk melihat status koneksi dan pembacaan sensor.
 
 ### Halaman Web
 
@@ -108,7 +108,7 @@ Anda dapat memantau output serial menggunakan Serial Monitor di Arduino IDE untu
 
 ## Konfigurasi
 
-Anda dapat menyesuaikan parameter berikut dalam kode:
+Dapat menyesuaikan parameter berikut dalam kode:
 
 ### ESP8266
 
@@ -148,10 +148,6 @@ Berikut adalah beberapa gambar dokumentasi dari proyek ini:
   <br><br>
   ![Skema Rangkaian](https://github.com/bhismapratama/FP-INTEGRASI-SISTEM_5027221005_5027221014/assets/104546173/07e04ec3-8b5d-4450-aae0-d07362c0fe94)
 
-
-- **Gambar 2: Tampilan Serial Monitor**  
-  ![Tampilan Serial Monitor](URL_GAMBAR_2)
-
-- **Gambar 3: Tampilan Halaman Web**
+- **Gambar 2: Tampilan Halaman Web**
   <br><br>
   ![Tampilan Halaman Web](https://github.com/bhismapratama/FP-INTEGRASI-SISTEM_5027221005_5027221014/assets/104546173/288c345f-3eed-406d-815c-f55dc1511ed3)
