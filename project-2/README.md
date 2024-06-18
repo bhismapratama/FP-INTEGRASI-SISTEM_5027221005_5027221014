@@ -10,7 +10,6 @@ Project 2 menggunakan MQTT untuk memonitor dan mengendalikan suhu, kelembapan, d
 - [Penggunaan](#penggunaan)
 - [Konfigurasi](#konfigurasi)
 - [Dokumentasi](#dokumentasi)
-- [Lisensi](#lisensi)
 
 ## Persyaratan Perangkat Keras
 
@@ -135,11 +134,11 @@ Dapat menyesuaikan parameter berikut dalam kode:
 Berikut adalah beberapa gambar dokumentasi dari project 2:
 
 - **Gambar 1: Contoh LED**
-  <br><br>
-  ![Skema Rangkaian](isi)
+  <br>
+  ![Skema Rangkaian](https://github.com/bhismapratama/FP-INTEGRASI-SISTEM_5027221005_5027221014/assets/104546173/91f85384-3a69-4fae-ab0f-4b0731335cae)
 
 - **Gambar 2: Tampilan Halaman Web**
-  <br><br>
-  ![Tampilan Halaman Web](isi)
+  <br>
+  ![Tampilan Halaman Web](https://github.com/bhismapratama/FP-INTEGRASI-SISTEM_5027221005_5027221014/assets/104546173/5d8167bd-8dd0-4d4a-81ea-dd290f740f91)
 
 ---
