@@ -10,7 +10,6 @@ Project 1 menggunakan mikrokontroler ESP8266 untuk membaca data suhu dan kelemba
 - [Penggunaan](#penggunaan)
 - [Konfigurasi](#konfigurasi)
 - [Dokumentasi](#dokumentasi)
-- [Lisensi](#lisensi)
 
 ## Persyaratan Perangkat Keras
 
