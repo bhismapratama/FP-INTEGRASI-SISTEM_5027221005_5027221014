@@ -1,6 +1,6 @@
 # Sensor Suhu dan Kelembapan ESP8266 dengan MQTT
 
-Proyek ini menggunakan mikrokontroler ESP8266 untuk membaca data suhu dan kelembapan dari sensor DHT11 dan mempublikasikan data tersebut ke broker MQTT. Data kemudian ditampilkan di halaman web.
+Project 1 menggunakan mikrokontroler ESP8266 untuk membaca data suhu dan kelembapan dari sensor DHT11 dan mempublikasikan data tersebut ke broker MQTT. Data kemudian ditampilkan di halaman web.
 
 ## Daftar Isi
 
@@ -37,7 +37,7 @@ Proyek ini menggunakan mikrokontroler ESP8266 untuk membaca data suhu dan kelemb
    git clone https://github.com/bhismapratama/FP-INTEGRASI-SISTEM_5027221005_5027221014.git
    ```
 
-2. **Buka proyek di Arduino IDE**:
+2. **Buka project 1 di Arduino IDE**:
 
    - Jalankan Arduino IDE.
    - Buka file `.ino` dari repository yang telah di-clone.
@@ -76,7 +76,7 @@ Proyek ini menggunakan mikrokontroler ESP8266 untuk membaca data suhu dan kelemb
 1. **Host file HTML**:
 
    - Salin kode HTML yang diberikan ke dalam file bernama `index.html`.
-   - Host file ini di server web lokal atau remote.
+   - Host file di server web lokal atau remote.
 
 2. **Konfigurasi pengaturan MQTT di HTML**:
    - Perbarui detail broker MQTT di bagian `<script>` dari `index.html`:
@@ -142,7 +142,7 @@ Dapat menyesuaikan parameter berikut dalam kode:
 
 ## Dokumentasi
 
-Berikut adalah beberapa gambar dokumentasi dari proyek ini:
+Berikut adalah beberapa gambar dokumentasi dari project 1:
 
 - **Gambar 1: Skema Rangkaian**
   <br><br>
